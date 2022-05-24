@@ -1,6 +1,6 @@
 # QuickStart Vue and AG Grid Tutorial
 
-Welcome to the "QuickStart Vue and AG Grid Tutorial," created by Stephen Cooper. The tutorial text, example source code, and walk-through videos will help you become proficient with AG Grid using Angular very quickly.
+Welcome to the "QuickStart Vue and AG Grid Tutorial," created by Marats Stelihs. The tutorial text, example source code, and walk-through videos will help you become proficient with AG Grid using Angular very quickly.
 
 AG Grid is an Enterprise-level Data Grid that powers applications for most of the Fortune 500; it supports multiple frameworks with the same functionality and API due to its MVC architecture. To make the development experience for each framework seamless, we have rendering engines specific to the framework.
 
@@ -81,7 +81,7 @@ If you are interested in seeing if AG Grid meets your long term needs, then we h
 
 The tutorial was created by Marats Stelihs.
 
-You can find Marat online:
+You can find Marats online:
 
 - https://blog.ag-grid.com/author/marats/
 - https://www.linkedin.com/in/marats-stelihs-69b85489/
@@ -90,7 +90,7 @@ You can find Marat online:
 
 This text contains a self-guided tutorial to help you quickly get started with AG Grid and Vue. Through a series of text content explaining the incremental development of code, it walks you through the basic concepts that help you get the most from AG Grid with Vue.
 
-We can't cover everything in this text. Stephen has pulled out the most critical concepts to help you get started and cover the most common use-cases. Still, we recommend you read the documentation because the grid API is rich and very flexible.
+We can't cover everything in this text. Marats has pulled out the most critical concepts to help you get started and cover the most common use-cases. Still, we recommend you read the documentation because the grid API is rich and very flexible.
 
 The AG Grid documentation is online at:
 
